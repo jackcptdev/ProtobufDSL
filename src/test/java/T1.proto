@@ -1,0 +1,5 @@
+option java_package = "protobufdsl.proto";
+message MessageT1{
+	optional int32  name = 1;
+	optional string age = 2;
+}
